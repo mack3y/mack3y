@@ -1,17 +1,49 @@
-<h1 align="center">Hi 👋, I'm Makarand Kadam aka Mackey</h1>
-<h3 align="center">B.E. Information Technology Student at University of Mumbai</h3></br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MACK3Y&label=Profile%20views&color=blue&style=flat-square" alt="Mackey" /> </p>
-<p>- 👋 Hi, I’m <a href="https://github.com/MACK3Y/">Mackey</a></br>
-- 👀 I’m interested in Web Development / Full Stack Development</br>
-- 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
-- 📫 You can reach me on my social media accounts <a href="https://linktr.ee/mack3y" target="_blank">here</a>.</p></br></br>
+<h1 align="center">👋 Hey there, I'm <strong>Makarand Kadam</strong> (aka <strong>Mackey</strong>)</h1>
 
-<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=MACK3Y&show_icons=true&locale=en&theme=transparent" alt="Mackey" /></p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Fresher;Full+Stack+%26+Flutter+Developer;B.E.+Information+Technology+Graduate;Tech+Enthusiast+%7C+Problem+Solver;Building+Cool+Things+with+Code+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACK3Y&layout=compact&hide=html&theme=transparent" alt="Mackey" /></p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MACK3Y&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
+---
 
-<!---
-MACK3Y/mack3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+- 🎓 **B.E. in Information Technology — Class of 2025**
+- 💻 Passionate about **Full Stack Development & Mobile App Development (Flutter)**
+- 👨‍💻 Actively looking for opportunities as a **Software Engineer / SDE / Full Stack Developer / Flutter Developer**
+- 🌱 Currently leveling up skills with real-world projects & problem-solving
+- 🤝 Open to collaboration on innovative projects & open source
+- 📬 Connect with me on **LinkedIn**:  
+  <a href="https://www.linkedin.com/in/kadister/" target="_blank">🔗 Linkedin</a>
+
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,python,java,php,mysql,mongodb,nodejs,git,github,figma,aws,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MACK3Y&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACK3Y&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/makarandkadam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+<a href="https://github.com/MACK3Y" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting! Let's connect & build something amazing together ✨</p>
