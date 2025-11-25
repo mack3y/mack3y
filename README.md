@@ -18,8 +18,7 @@
 - 👨‍💻 Actively looking for opportunities as a **Software Engineer / SDE / Full Stack Developer / Flutter Developer**
 - 🌱 Currently leveling up skills with real-world projects & problem-solving
 - 🤝 Open to collaboration on innovative projects & open source
-- 📬 Connect with me on **LinkedIn**:  
-  <a href="https://www.linkedin.com/in/kadister/" target="_blank">🔗 Linkedin</a>
+
 
 ---
 
@@ -28,13 +27,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,python,java,php,mysql,mongodb,nodejs,git,github,figma,aws,linux" />
 </p>
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MACK3Y&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACK3Y&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
