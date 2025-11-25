@@ -33,7 +33,7 @@
 
 ### 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/makarandkadam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+<a href="https://www.linkedin.com/in/kadister/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
 <a href="https://github.com/MACK3Y" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
 </p>
 
